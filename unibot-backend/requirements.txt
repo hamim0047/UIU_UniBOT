@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+chromadb
+rank-bm25
+sentence-transformers
+scikit-learn
+regex
+beautifulsoup4
+markdownify
+pypdf
+requests
+torch
+llama-cpp-python
+tldextract
+pandas

@@ -1,0 +1,22 @@
+# constraints.txt
+torch==2.3.1
+sentence-transformers==3.0.1
+transformers==4.43.4
+tokenizers==0.19.1
+huggingface-hub==0.23.4
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+pydantic==2.7.4
+uvicorn==0.30.6
+fastapi==0.112.1
+chromadb==0.5.3
+rank-bm25==0.2.2
+beautifulsoup4==4.12.3
+markdownify==0.12.6
+pypdf==5.0.1
+regex==2024.9.11
+requests==2.32.3
+llama-cpp-python==0.2.84
+tldextract==5.1.2
+pandas==2.2.2
